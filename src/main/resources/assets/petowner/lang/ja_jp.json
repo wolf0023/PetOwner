@@ -1,6 +1,10 @@
 {
-  "text.autoconfig.petowner.title": "ペットの飼い主の設定",
-  "text.autoconfig.petowner.option.requireEmptyHand": "手ぶらが必要",
+  "text.autoconfig.petowner.title": "Pet Owner コンフィグ",
+  "text.autoconfig.petowner.category.nametag": "ネームタグの設定",
+  "text.autoconfig.petowner.option.nametag": "ペットのネームタグに飼い主の名前を表示させるか？",
+  "text.autoconfig.petowner.category.click": "クリック時の設定",
+  "text.autoconfig.petowner.option.click": "右クリックでペットのネームタグに飼い主の名前を表示させるか？",
+  "text.autoconfig.petowner.option.requireEmptyHand": "素手でクリックする必要があるか？",
   "text.petowner.message.owner": "§3飼い主: %s",
-  "text.petowner.message.error": "§4エラーが発生しました"
+  "text.petowner.message.error": "§4不明なエラー"
 }
